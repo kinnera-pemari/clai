@@ -1,0 +1,9 @@
+stories:
+  - story: jokes
+    steps:
+      - intent: jokes
+        user: jokes
+      - action: utter_smHZNPpL5
+    metadata:
+      group: jokes
+rules: []

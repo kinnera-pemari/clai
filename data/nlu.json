@@ -1,0 +1,36 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "animal",
+        "intent": "animal",
+        "entities": [],
+        "metadata": {
+          "language": "en",
+          "canonical": true
+        }
+      },
+      {
+        "text": "image",
+        "intent": "image",
+        "entities": [],
+        "metadata": {
+          "language": "en",
+          "canonical": true
+        }
+      },
+      {
+        "text": "jokes",
+        "intent": "jokes",
+        "entities": [],
+        "metadata": {
+          "language": "en",
+          "canonical": true
+        }
+      }
+    ],
+    "entity_synonyms": [],
+    "gazette": [],
+    "regex_features": []
+  }
+}
