@@ -2,8 +2,8 @@
   "rasa_nlu_data": {
     "common_examples": [
       {
-        "text": "animal",
-        "intent": "animal",
+        "text": "test git",
+        "intent": "git_test",
         "entities": [],
         "metadata": {
           "language": "en",
@@ -11,8 +11,8 @@
         }
       },
       {
-        "text": "image",
-        "intent": "image",
+        "text": "bye",
+        "intent": "smalltalk.bye",
         "entities": [],
         "metadata": {
           "language": "en",
@@ -20,8 +20,8 @@
         }
       },
       {
-        "text": "jokes",
-        "intent": "jokes",
+        "text": "hi",
+        "intent": "smalltalk.greet",
         "entities": [],
         "metadata": {
           "language": "en",

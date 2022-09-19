@@ -1,0 +1,8 @@
+stories:
+  - story: test
+    steps:
+      - intent: git_test
+        user: test git
+    metadata:
+      group: Stories
+rules: []

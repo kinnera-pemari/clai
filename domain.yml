@@ -4,27 +4,26 @@ actions:
   - action_botfront_fallback
   - action_botfront_mapping
   - action_clarity_default_slots
-  - utter_UyOK6S-f9
+  - utter_bye
   - utter_get_started
-  - utter_smHZNPpL5
-  - utter_t1ff3IzgD
+  - utter_hi
 entities: []
 forms: {}
 intents:
-  - jokes
+  - get_started
+  - git_test
+  - smalltalk.bye
+  - smalltalk.greet
 responses:
-  utter_UyOK6S-f9:
+  utter_bye:
     - language: en
-      text: response of the img
+      text: farewells
   utter_get_started:
     - language: en
-      text: ''
-  utter_smHZNPpL5:
+      text: Get started
+  utter_hi:
     - language: en
-      text: lough yourself!
-  utter_t1ff3IzgD:
-    - language: en
-      text: animal story added
+      text: greetings
 session_config: {}
 slots:
   disambiguation_message:
