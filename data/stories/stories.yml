@@ -3,7 +3,6 @@ stories:
     steps:
       - intent: git_test
         user: test git
-      - action: utter_WB-txXKio
     metadata:
       group: Stories
 rules: []
