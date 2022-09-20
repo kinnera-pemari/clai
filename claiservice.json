@@ -1,0 +1,14 @@
+[
+  {
+    "environment": "development",
+    "claiservice": "rasa_development",
+    "projectId": "MgcyTLnpExAf7iSuv",
+    "updatedAt": "2022-09-20T21:16:21.627Z"
+  },
+  {
+    "environment": "production",
+    "claiservice": "rasa_production",
+    "projectId": "MgcyTLnpExAf7iSuv",
+    "updatedAt": "2022-09-20T21:16:21.628Z"
+  }
+]
