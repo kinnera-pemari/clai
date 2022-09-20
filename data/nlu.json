@@ -1,34 +1,6 @@
 {
   "rasa_nlu_data": {
-    "common_examples": [
-      {
-        "text": "test git",
-        "intent": "git_test",
-        "entities": [],
-        "metadata": {
-          "language": "en",
-          "canonical": true
-        }
-      },
-      {
-        "text": "bye",
-        "intent": "smalltalk.bye",
-        "entities": [],
-        "metadata": {
-          "language": "en",
-          "canonical": true
-        }
-      },
-      {
-        "text": "hi",
-        "intent": "smalltalk.greet",
-        "entities": [],
-        "metadata": {
-          "language": "en",
-          "canonical": true
-        }
-      }
-    ],
+    "common_examples": [],
     "entity_synonyms": [],
     "gazette": [],
     "regex_features": []

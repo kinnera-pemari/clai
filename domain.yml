@@ -4,7 +4,6 @@ actions:
   - action_botfront_fallback
   - action_botfront_mapping
   - action_clarity_default_slots
-  - utter_WB-txXKio
   - utter_bye
   - utter_get_started
   - utter_hi
@@ -12,22 +11,21 @@ entities: []
 forms: {}
 intents:
   - get_started
-  - git_test
   - smalltalk.bye
   - smalltalk.greet
 responses:
-  utter_WB-txXKio:
-    - language: en
-      text: git testing 123456
   utter_bye:
     - language: en
-      text: farewells
+      metadata: null
+      text: See you soon
   utter_get_started:
     - language: en
-      text: Get started
+      metadata: null
+      text: Greetings user 1
   utter_hi:
     - language: en
-      text: greetings
+      metadata: null
+      text: Hi
 session_config: {}
 slots:
   disambiguation_message:
@@ -37,8 +35,11 @@ slots:
     initial_value: en
     type: unfeaturized
   firstname:
+    influence_conversation: false
     type: text
   language:
+    influence_conversation: false
     type: text
   version:
+    influence_conversation: false
     type: text
