@@ -21,7 +21,7 @@ responses:
   utter_get_started:
     - language: en
       metadata: null
-      text: Greetings user 1
+      text: Greetings user 2
   utter_hi:
     - language: en
       metadata: null
