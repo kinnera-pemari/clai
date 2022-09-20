@@ -18,7 +18,8 @@ intents:
 responses:
   utter_WB-txXKio:
     - language: en
-      text: git testing 1
+      metadata: null
+      text: git testing 123
   utter_bye:
     - language: en
       text: farewells
