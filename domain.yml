@@ -16,15 +16,12 @@ intents:
 responses:
   utter_bye:
     - language: en
-      metadata: null
       text: See you soon
   utter_get_started:
     - language: en
-      metadata: null
       text: Greetings user 2
   utter_hi:
     - language: en
-      metadata: null
       text: Hi
 session_config: {}
 slots:
@@ -35,11 +32,8 @@ slots:
     initial_value: en
     type: unfeaturized
   firstname:
-    influence_conversation: false
     type: text
   language:
-    influence_conversation: false
     type: text
   version:
-    influence_conversation: false
     type: text
