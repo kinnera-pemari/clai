@@ -19,7 +19,7 @@ responses:
       text: See you soon
   utter_get_started:
     - language: en
-      text: Greetings user
+      text: Greetings user 21
   utter_hi:
     - language: en
       text: Hi
