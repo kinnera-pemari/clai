@@ -1,0 +1,8 @@
+- environment: development
+  claiservice: rasa_development
+  projectId: MgcyTLnpExAf7iSuv
+  updatedAt: 2022-09-21T05:15:19.006Z
+- environment: production
+  claiservice: rasa_production
+  projectId: MgcyTLnpExAf7iSuv
+  updatedAt: 2022-09-21T05:15:19.007Z
